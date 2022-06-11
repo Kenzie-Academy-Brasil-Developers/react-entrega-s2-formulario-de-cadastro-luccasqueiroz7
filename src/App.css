@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+ol,
+li {
+  list-style: none;
+}
+button {
+  cursor: pointer;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("./images/fundo-de-formularios-sobrepostos_52683-46433.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
